@@ -1,5 +1,5 @@
 {
-    "name": "Dark Mode",
+    "name": "Eagle Eye",
     "version": "1.0",
     "description": "Dark mode for websites",
     "permissions": ["activeTab", "declarativeContent", "storage"],
